@@ -1,0 +1,12 @@
+                                    Java quiz
+
+
+1. Yes its true that for every interface in a java file .class file is generated after its compilation.
+
+2. the variable i cannot be private
+
+3. No, a class cannot implement more than one interface
+
+4. the method in implemented class should be public
+
+5.
